@@ -1,4 +1,4 @@
-# 📊 Analytics Dashboard | Enterprise Admin Interface
+# Analytics Dashboard | Enterprise Admin Interface
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 - **Metric Cards:** Real-time KPI summaries (Revenue, Sales conversion, User retention, Pending orders).
 - **Interactive Visualizations:** Integrated line, bar, and donut charts demonstrating financial velocity.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/mesumali-dev/analytics-dashboard.git
@@ -28,5 +28,5 @@ cd analytics-dashboard
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
